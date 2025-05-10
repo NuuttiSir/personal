@@ -30,8 +30,8 @@ return {
             automatic_installation = false,
             ensure_installed = {
                 "lua_ls",
-                "rust_analyzer",
-                "tinymist",
+                "gopls", "gofumpt",
+                "clangd",
             },
             handlers = {
                 function(server_name)
