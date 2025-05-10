@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+sudo pacman -S --noconfirm --needed gimp tldr go fzf rofi-wayland btop firefox 
+sudo pacman -S --noconfirm ttf-iosevka-nerd waybar
+sudo pacman -S --noconfirm ghostty
+

@@ -1,0 +1,2 @@
+move tmux sessionizer to .local/scripts to make it work
+TODO - Automate this
