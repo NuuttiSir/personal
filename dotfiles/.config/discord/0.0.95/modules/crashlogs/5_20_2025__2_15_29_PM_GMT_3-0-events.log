@@ -1,0 +1,17 @@
+5/20/2025, 2:15:29 PM GMT+3 0: 
+
+----------------------------------------------
+5/20/2025, 2:15:29 PM GMT+3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/nuuttisir/.config/discord/0.0.95/modules
+5/20/2025, 2:15:29 PM GMT+3 2: ✅ webContents.created web1 ""
+5/20/2025, 2:15:29 PM GMT+3 3: ✅ window.created win1 "discord"
+5/20/2025, 2:15:30 PM GMT+3 4: ✅ webContents.did-finish-load web1
+5/20/2025, 2:15:39 PM GMT+3 5: ✅ webContents.created web2 ""
+5/20/2025, 2:15:39 PM GMT+3 6: ✅ window.created win2 "Discord"
+5/20/2025, 2:15:40 PM GMT+3 7: ✅ webContents.did-finish-load web2
+5/20/2025, 2:15:40 PM GMT+3 8: window.close win1
+5/20/2025, 2:15:40 PM GMT+3 9: webContents.destroyed web1
+5/20/2025, 2:15:40 PM GMT+3 10: window.closed win1
+5/20/2025, 2:57:37 PM GMT+3 11: window.close win2
+5/20/2025, 2:57:37 PM GMT+3 12: before-quit
+5/20/2025, 2:57:37 PM GMT+3 13: window.close win2
+5/20/2025, 2:57:37 PM GMT+3 14: webContents.destroyed web2

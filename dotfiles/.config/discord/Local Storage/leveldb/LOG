@@ -1,0 +1,8 @@
+2025/05/20-14:15:29.942 874 Creating DB /home/nuuttisir/.config/discord/Local Storage/leveldb since it was missing.
+2025/05/20-14:15:29.952 874 Reusing MANIFEST /home/nuuttisir/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/20-14:19:07.046 875 Level-0 table #5: started
+2025/05/20-14:19:07.072 875 Level-0 table #5: 1033162 bytes OK
+2025/05/20-14:19:07.075 875 Delete type=0 #3
+2025/05/20-14:49:39.526 874 Level-0 table #7: started
+2025/05/20-14:49:39.536 874 Level-0 table #7: 32183 bytes OK
+2025/05/20-14:49:39.539 874 Delete type=0 #4

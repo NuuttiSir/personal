@@ -1,0 +1,42 @@
+[2025-May-20 14:15:45.943 +03:00][ 2273: 2273][info ] Logging initialized
+[2025-May-20 14:15:45.943 +03:00][ 2273: 2273][info ] Initializing krisp SDK...
+[2025-May-20 14:15:45.943 +03:00][ 2273: 2273][info ] DoKrispInitialize
+[2025-May-20 14:15:46.257 +03:00][ 2273: 2273][info ] LoadDynamicKrisp
+[2025-May-20 14:15:46.257 +03:00][ 2273: 2273][info ] Did not find KRISP_DYLIB_PATH, skipping dynamic loading
+[2025-May-20 14:15:46.257 +03:00][ 2273: 2273][info ] Initializing Krisp SDK in PID 2273, addr 0x76375c58c820
+[2025-May-20 14:15:46.424 +03:00][ 2273: 2273][info ] Initialized Krisp SDK successfully
+[2025-May-20 14:15:46.424 +03:00][ 2273: 2273][info ] Krisp SDK initialized
+[2025-May-20 14:17:04.002 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:17:04.002 +03:00][ 2273: 2312][info ] Setting Krisp model: full_NC
+[2025-May-20 14:17:07.245 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:07.246 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 8000, duration = 10
+[2025-May-20 14:17:07.246 +03:00][ 2273: 2312][info ] Setting Krisp model: small_NC_8k
+[2025-May-20 14:17:12.379 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:12.379 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:17:12.379 +03:00][ 2273: 2312][info ] Setting Krisp model: full_NC
+[2025-May-20 14:17:14.491 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:14.491 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 8000, duration = 10
+[2025-May-20 14:17:14.491 +03:00][ 2273: 2312][info ] Setting Krisp model: small_NC_8k
+[2025-May-20 14:17:20.994 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:20.994 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:17:20.994 +03:00][ 2273: 2312][info ] Setting Krisp model: full_NC
+[2025-May-20 14:17:25.111 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:25.111 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 8000, duration = 10
+[2025-May-20 14:17:25.111 +03:00][ 2273: 2312][info ] Setting Krisp model: small_NC_8k
+[2025-May-20 14:17:27.031 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:27.031 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:17:27.031 +03:00][ 2273: 2312][info ] Setting Krisp model: full_NC
+[2025-May-20 14:17:30.680 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:17:30.681 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 8000, duration = 10
+[2025-May-20 14:17:30.681 +03:00][ 2273: 2312][info ] Setting Krisp model: small_NC_8k
+[2025-May-20 14:18:02.960 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:18:02.960 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:18:02.960 +03:00][ 2273: 2312][info ] Setting Krisp model: full_NC
+[2025-May-20 14:18:04.603 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:18:04.603 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 8000, duration = 10
+[2025-May-20 14:18:04.603 +03:00][ 2273: 2312][info ] Setting Krisp model: small_NC_8k
+[2025-May-20 14:18:07.739 +03:00][ 2273: 2312][info ] KrispNCReset
+[2025-May-20 14:18:07.739 +03:00][ 2273: 2312][info ] KrispNCSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:18:07.739 +03:00][ 2273: 2312][info ] Setting Krisp model: full_NC
+[2025-May-20 14:18:07.746 +03:00][ 2273: 2312][info ] KrispVADSetup: sampleRate = 48000, duration = 10
+[2025-May-20 14:57:35.420 +03:00][ 2273: 2304][info ] KrispVADReset

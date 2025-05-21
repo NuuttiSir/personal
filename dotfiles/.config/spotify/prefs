@@ -1,0 +1,10 @@
+autologin.blob="hmffdvxqkOush7Sqjz7zHAedRLbrwP4gFw/m4txlHwfpqohOPmBcvX8qyNN+iEnuS7hK6vNNKBP4DnH07qLS7qwChcerV6r32K7wyrjt43WjK5PVwVmyQoZzvfex6U+CU8h7OuvsZAUQu60pdPkDJnovmemhZC7CekJ5EawPZt3smsv4q3T0XVfkU/zKogRjrsIFap5CttNV5VLclSYGYs7v09q7AoZwZglmb1OIzWRpQBzO2Rx1QvnDetkgqPMSDwI8pzYyanmW1kfHWji6MQ=="
+autologin.canonical_username="dragonslayer003"
+autologin.saved_credentials="{\"dragonslayer003\":[\"dragonslayer003\",\"hmffdvxqkOush7Sqjz7zHAedRLbrwP4gFw/m4txlHwfpqohOPmBcvX8qyNN+iEnuS7hK6vNNKBP4DnH07qLS7qwChcerV6r32K7wyrjt43WjK5PVwVmyQoZzvfex6U+CU8h7OuvsZAUQu60pdPkDJnovmemhZC7CekJ5EawPZt3smsv4q3T0XVfkU/zKogRjrsIFap5CttNV5VLclSYGYs7v09q7AoZwZglmb1OIzWRpQBzO2Rx1QvnDetkgqPMSDwI8pzYyanmW1kfHWji6MQ==\"]}"
+app.rollback-to-sc=true
+es.send-on-startup=true
+core.clock_delta=0
+autologin.username="dragonslayer003"
+storage.last-location="/home/nuuttisir/.cache/spotify/Storage"
+es.use-lmdb=true
+app.last-launched-version="1.2.60.564.gcc6305cb"
